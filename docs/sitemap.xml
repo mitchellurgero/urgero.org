@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>http://urgero.org/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>http://urgero.org/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>http://urgero.org/</loc>
+      <loc>/</loc>
       <lastmod>2016-04-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -33,7 +33,7 @@
     
     <url>
     
-      <loc>http://urgero.org/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -42,7 +42,7 @@
     
     <url>
     
-      <loc>http://urgero.org/tags/</loc>
+      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
     
