@@ -39,5 +39,17 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Donate</title>
+      <link>/home/donate/</link>
+      <pubDate>Mon, 30 Apr 2018 19:13:40 -0500</pubDate>
+      
+      <guid>/home/donate/</guid>
+      <description>You can use one of the following options to donate! Thank you for your consideration!
+ PayPal
+ BTC/BCH/LTC
+  </description>
+    </item>
+    
   </channel>
 </rss>

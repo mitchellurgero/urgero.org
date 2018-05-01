@@ -233,7 +233,10 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/mitchellurgero"
-
+  [[params.social]]
+    icon = "paypal"
+    icon_pack = "fa"
+    link = "//paypal.me/murgero"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
