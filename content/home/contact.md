@@ -15,3 +15,4 @@ autolink = true
 
 +++
 
+Looking to get into contact with me? Feel free to use the below options, or the options above by my picture work as well.

@@ -10,7 +10,7 @@ title = "Mitchell Urgero"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 URGERO.ORG"
 
 theme = "academic"
 enableEmoji = true
@@ -233,10 +233,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/mitchellurgero"
+	
   [[params.social]]
-    icon = "paypal"
+    icon = "facebook"
     icon_pack = "fa"
-    link = "//paypal.me/murgero"
+    link = "//facebook.com/mitchell.urgero"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
