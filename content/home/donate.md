@@ -21,3 +21,7 @@ You can use one of the following options to donate! Thank you for your considera
 - [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KRSG77G6CUEH4)
 
 - [BTC/BCH/LTC](https://www.coinbase.com/checkouts/97a64927b3efe40671c0cc34473e56d4)
+
+<br>
+<br><br>
+My website is proudly hosted by [DigitalOcean](https://m.do.co/c/93604d2ec646). Use this link to get **$10** in credits, that's 2 months of their $5 service!
