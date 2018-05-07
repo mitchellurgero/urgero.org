@@ -262,6 +262,11 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 4
 
+[[menu.main]]
+  name = "Donate"
+  url = "#donate"
+  weight = 4
+  
 # Taxonomies.
 [taxonomies]
   tag = "tags"
