@@ -1,5 +1,5 @@
 +++
-title = "Exhcnage Mailbox Export"
+title = "Exchange Mailbox Export"
 date = 2018-07-12T13:24:56-05:00
 draft = false
 

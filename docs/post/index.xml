@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mitchell Urgero</title>
-    <link>/post/</link>
+    <link>https://urgero.org/post/</link>
     <description>Recent content in Posts on Mitchell Urgero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 URGERO.ORG</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://urgero.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

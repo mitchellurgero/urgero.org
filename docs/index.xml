@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mitchell Urgero on Mitchell Urgero</title>
-    <link>/</link>
+    <link>https://urgero.org/</link>
     <description>Recent content in Mitchell Urgero on Mitchell Urgero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,11 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Exhcnage Mailbox Export</title>
-      <link>/project/mailboxsearch2013/</link>
+      <title>Exchange Mailbox Export</title>
+      <link>https://urgero.org/project/mailboxsearch2013/</link>
       <pubDate>Thu, 12 Jul 2018 13:24:56 -0500</pubDate>
       
-      <guid>/project/mailboxsearch2013/</guid>
+      <guid>https://urgero.org/project/mailboxsearch2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://gist.github.com/mitchellurgero/45b52fd044a67d9a768b507a7fa78a6d&#34; target=&#34;_blank&#34;&gt;Project Page&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;After much searching around and trying to get 2013 / 2016 exchange to properly export to PST any mailbox and items that included my search terms.&lt;/p&gt;
@@ -83,37 +83,37 @@ New-MailboxExportRequest -Mailbox &lt;span style=&#34;color:#e6db74&#34;&gt;&amp
     
     <item>
       <title>JSONDatabase</title>
-      <link>/project/jsondatabase/</link>
+      <link>https://urgero.org/project/jsondatabase/</link>
       <pubDate>Sat, 14 Apr 2018 18:32:33 -0500</pubDate>
       
-      <guid>/project/jsondatabase/</guid>
+      <guid>https://urgero.org/project/jsondatabase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adbwui</title>
-      <link>/project/adbwui/</link>
+      <link>https://urgero.org/project/adbwui/</link>
       <pubDate>Sat, 14 Apr 2018 18:32:28 -0500</pubDate>
       
-      <guid>/project/adbwui/</guid>
+      <guid>https://urgero.org/project/adbwui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TinySocial</title>
-      <link>/project/tinysocial/</link>
+      <link>https://urgero.org/project/tinysocial/</link>
       <pubDate>Sat, 14 Apr 2018 18:32:15 -0500</pubDate>
       
-      <guid>/project/tinysocial/</guid>
+      <guid>https://urgero.org/project/tinysocial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenRSD</title>
-      <link>/project/openrsd/</link>
+      <link>https://urgero.org/project/openrsd/</link>
       <pubDate>Sat, 14 Apr 2018 18:29:39 -0500</pubDate>
       
-      <guid>/project/openrsd/</guid>
+      <guid>https://urgero.org/project/openrsd/</guid>
       <description></description>
     </item>
     
