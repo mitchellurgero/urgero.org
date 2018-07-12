@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 URGERO.ORG</copyright>
-    <lastBuildDate>Sat, 14 Apr 2018 18:32:33 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jul 2018 13:24:56 -0500</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exhcnage Mailbox Export</title>
+      <link>/project/mailboxsearch2013/</link>
+      <pubDate>Thu, 12 Jul 2018 13:24:56 -0500</pubDate>
+      
+      <guid>/project/mailboxsearch2013/</guid>
+      <description>Project Page
+After much searching around and trying to get 2013 / 2016 exchange to properly export to PST any mailbox and items that included my search terms.
+On the project page you will find a PowerShell script that is easily configurable. This script will allow you to specify user mailbox&amp;rsquo;s to search, where to put the found items, and where to export the new PST to. The PST will contain the emails, in a folder, for each mailbox.</description>
+    </item>
     
     <item>
       <title>JSONDatabase</title>
