@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
   office_hours = ""
   phone = ""
   skype = ""
-  telegram = "MitchellU"
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -223,11 +223,6 @@ defaultContentLanguageInSubdir = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/mitchellurgero/"
-
-  [[params.social]]
-    icon = "paper-plane"
-    icon_pack = "fa"
-    link = "https://t.me/MitchellU"
 
   [[params.social]]
     icon = "github"
