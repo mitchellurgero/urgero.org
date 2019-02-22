@@ -18,4 +18,4 @@ weight = 5
 
 # About Me
 
-IT consultant by day, freelance programmer by night. My favorite hobbies is programming, web design, and tinkering with Raspberry Pi's.
+IT consultant by day, freelance programmer by night. My favorite hobbies are programming, web design, and tinkering with Raspberry Pi's.
