@@ -7,7 +7,7 @@ draft= false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Visual Studio Code app for Cloudron (code-server)"
+summary = "Visual Studio Code app for Cloudron"
 
 # Optional image to display on homepage.
 image_preview = ""
