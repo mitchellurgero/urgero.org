@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Flat-File, PHP Social network. Meant to be an example of how fast JSONDatabase is."
+summary = "Flat-File, PHP Social network."
 
 # Optional image to display on homepage.
 image_preview = ""
