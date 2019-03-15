@@ -40,6 +40,13 @@ Option | Value
 Description | Visual Studio Code as a webapp. 
 Link | [GitHub](https://github.com/mitchellurgero/cloudron-vscode)
 
+### Cloudron Codiad
+
+Option | Value
+--------|------
+Description | Codiad Cloudron app package.
+Link | [GitHub](https://github.com/mitchellurgero/cloudron-codiad)
+
 ### Cloudron GitHub Pages (gh-pages)
 
 Option | Value

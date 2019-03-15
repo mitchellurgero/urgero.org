@@ -46,6 +46,29 @@ I cannot guarantee the security of these apps either. If you notice any issues w
 &lt;/tbody&gt;
 &lt;/table&gt;
 
+&lt;h3 id=&#34;cloudron-codiad&#34;&gt;Cloudron Codiad&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Option&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Description&lt;/td&gt;
+&lt;td&gt;Codiad Cloudron app package.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Link&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/mitchellurgero/cloudron-codiad&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
 &lt;h3 id=&#34;cloudron-github-pages-gh-pages&#34;&gt;Cloudron GitHub Pages (gh-pages)&lt;/h3&gt;
 
 &lt;table&gt;
