@@ -257,11 +257,6 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Blog"
-  url = "https://blog.urgero.org"
-  weight = 4
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 5
